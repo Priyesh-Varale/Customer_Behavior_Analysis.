@@ -112,7 +112,7 @@ The dataset contains customer information including:
 
 ## 📷 Dashboard Preview
 
-![Customer Behavior Analysis Dashboard]("Customer_Behavior_Dashboard.png")
+![Customer Behavior Analysis Dashboard]("https://github.com/Priyesh-Varale/Customer_Behavior_Analysis./blob/main/Customer_Behavior_Dashboard.png")
 
 ---
 
